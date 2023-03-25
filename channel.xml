@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channel>
+	<name>Satheesh Bollineni</name>
+	<topic>
+		<name> Internet Computing</name>
+		<tutorial>Tutorial 1</tutorial>
+		<tutorial>Tutorial 2</tutorial>
+	</topic>
+	<topic>
+		<name> Java Xml</name>
+		<tutorial>Tutorial 3</tutorial>
+		<tutorial>Tutorial 4</tutorial>
+	</topic>
+</channel>
