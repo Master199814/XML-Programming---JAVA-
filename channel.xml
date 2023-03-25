@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE channel SYSTEM "channel.dtd">
 <channel>
 	<name>Satheesh Bollineni</name>
 	<topic>
-		<name> Internet Computing</name>
-		<tutorial>Tutorial 1</tutorial>
-		<tutorial>Tutorial 2</tutorial>
+		<name>OOPS</name>
+		<tutorial>Tutorial1</tutorial>
+		<tutorial>Tutorial2</tutorial>
 	</topic>
 	<topic>
-		<name> Java Xml</name>
-		<tutorial>Tutorial 3</tutorial>
-		<tutorial>Tutorial 4</tutorial>
+		<name>JSON AND XML</name>
+		<tutorial>Tutorial3</tutorial>
+		<tutorial>Tutorial4</tutorial>
 	</topic>
 </channel>
